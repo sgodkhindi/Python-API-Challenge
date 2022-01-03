@@ -78,8 +78,8 @@ The second requirement is to run linear regression on each relationship. This ti
 * Southern Hemisphere - Humidity (%) vs. Latitude ![Southern Hemisphere - Humidity (%) vs. Latitude](Images/South_Hemis_Humidity_Vs_Lat.png)
 * Northern Hemisphere - Cloudiness (%) vs. Latitude ![Northern Hemisphere - Cloudiness (%) vs. Latitude](Images/North_Hemis_Cloud_Vs_Lat.png)
 * Southern Hemisphere - Cloudiness (%) vs. Latitude ![Southern Hemisphere - Cloudiness (%) vs. Latitude](Images/South_Hemis_Cloud_Vs_Lat.png)
-* Northern Hemisphere - Wind Speed (mph) vs. Latitude ![Northern Hemisphere - Wind Speed (mph) vs. Latitude](Images/North_HemisWind_Vs_Lat.png)
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude ![Southern Hemisphere - Wind Speed (mph) vs. Latitude](Images/South_HemisWind_Vs_Lat.png)
+* Northern Hemisphere - Wind Speed (mph) vs. Latitude ![Northern Hemisphere - Wind Speed (mph) vs. Latitude](Images/North_Hemis_Wind_Vs_Lat.png)
+* Southern Hemisphere - Wind Speed (mph) vs. Latitude ![Southern Hemisphere - Wind Speed (mph) vs. Latitude](Images/South_Hemis_Wind_Vs_Lat.png)
 
 After each pair of plots, take the time to explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 
