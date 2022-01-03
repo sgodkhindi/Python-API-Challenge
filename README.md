@@ -55,6 +55,11 @@ On GitHub, the only new file you should see is the `WeatherPy.ipynb` file.
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
+#### Final Jupyter Notebook and CSV File - WeatherPy
+[Final Jupyter Notebook - WeatherPy](WeatherPy.ipynb)
+[Output CSV File](output_data/cities.csv)
+
+
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude ![Temperature (F) vs. Latitude](Images/Temp_Vs_Lat.png)
@@ -84,13 +89,16 @@ Your final notebook must:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
-### Part II - VacationPy
+## Part II - VacationPy
 
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
 * **Note:** Remember that any API usage beyond the $200 credit will be charged to your personal account. You can set quotas and limits to your daily requests to be sure you can't be charged. Check out [Google Maps Platform Billing](https://developers.google.com/maps/billing/gmp-billing#monitor-and-restrict-consumption) and [Manage your cost of use](https://developers.google.com/maps/documentation/javascript/usage-and-billing#set-caps) for more information.
 
 * **Note:** if you having trouble displaying the maps, try running `jupyter nbextension enable --py gmaps` in your environment and retry.
+
+#### Final Jupyter Notebook - VacationPy
+[Final Jupyter Notebook - VacationPy](VacationPy.ipynb)
 
 To complete this part of the assignment,you will need to do the following:
 
