@@ -57,6 +57,7 @@ In this example, you'll be creating a Python script to visualize the weather of 
 
 #### Final Jupyter Notebook and CSV File - WeatherPy
 [Final Jupyter Notebook - WeatherPy](WeatherPy.ipynb)
+
 [Output CSV File](output_data/cities.csv)
 
 
