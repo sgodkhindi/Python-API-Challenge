@@ -66,14 +66,14 @@ After each plot, add a sentence or two explaining what the code is analyzing.
 
 The second requirement is to run linear regression on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-* Northern Hemisphere - Temperature (F) vs. Latitude
-* Southern Hemisphere - Temperature (F) vs. Latitude
-* Northern Hemisphere - Humidity (%) vs. Latitude
-* Southern Hemisphere - Humidity (%) vs. Latitude
-* Northern Hemisphere - Cloudiness (%) vs. Latitude
-* Southern Hemisphere - Cloudiness (%) vs. Latitude
-* Northern Hemisphere - Wind Speed (mph) vs. Latitude
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
+* Northern Hemisphere - Temperature (F) vs. Latitude ![Northern Hemisphere - Temperature (F) vs. Latitude](Images/North_Hemis_Temp_Vs_Lat.png)
+* Southern Hemisphere - Temperature (F) vs. Latitude ![Southern Hemisphere - Temperature (F) vs. Latitude](Images/South_Hemis_Temp_Vs_Lat.png)
+* Northern Hemisphere - Humidity (%) vs. Latitude ![Northern Hemisphere - Humidity (%) vs. Latitude](Images/North_Hemis_Humidity_Vs_Lat.png)
+* Southern Hemisphere - Humidity (%) vs. Latitude ![Southern Hemisphere - Humidity (%) vs. Latitude](Images/South_Hemis_Humidity_Vs_Lat.png)
+* Northern Hemisphere - Cloudiness (%) vs. Latitude ![Northern Hemisphere - Cloudiness (%) vs. Latitude](Images/North_Hemis_Cloud_Vs_Lat.png)
+* Southern Hemisphere - Cloudiness (%) vs. Latitude ![Southern Hemisphere - Cloudiness (%) vs. Latitude](Images/South_Hemis_Cloud_Vs_Lat.png)
+* Northern Hemisphere - Wind Speed (mph) vs. Latitude ![Northern Hemisphere - Wind Speed (mph) vs. Latitude](Images/North_HemisWind_Vs_Lat.png)
+* Southern Hemisphere - Wind Speed (mph) vs. Latitude ![Southern Hemisphere - Wind Speed (mph) vs. Latitude](Images/South_HemisWind_Vs_Lat.png)
 
 After each pair of plots, take the time to explain what the linear regression is modeling. For example, describe any relationships you notice and any other analysis you may have.
 
