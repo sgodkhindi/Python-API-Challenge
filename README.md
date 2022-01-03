@@ -58,9 +58,9 @@ In this example, you'll be creating a Python script to visualize the weather of 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude ![Temperature (F) vs. Latitude](Images/Temp_Vs_Lat.png)
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+* Humidity (%) vs. Latitude ![Humidity (%) vs. Latitude](Images/Humidity_Vs_Lat.png)
+* Cloudiness (%) vs. Latitude ![Cloudiness (%) vs. Latitude](Images/Cloud_Vs_Lat.png)
+* Wind Speed (mph) vs. Latitude ![Wind Speed (mph) vs. Latitude](Images/Wind_Vs_Lat.png)
 
 After each plot, add a sentence or two explaining what the code is analyzing.
 
