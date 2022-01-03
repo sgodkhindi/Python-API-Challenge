@@ -39,7 +39,7 @@ Before we add our files to GitHub, let's add `api_keys.py` to the `.gitignore` f
 
 ```python
 # Adding config.py file.
-api_keys.py
+config.py
 ```
 
 3. While the `.gitignore` file is open, add the `API_practice.ipynb` and `random_numbers.ipynb` files and save the file.
