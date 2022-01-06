@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Python API Challenge - What's the Weather Like?
 ## Final Deliverables
 #### Final Jupyter Notebook and CSV File - WeatherPy
 [Final Jupyter Notebook - WeatherPy](WeatherPy.ipynb)
